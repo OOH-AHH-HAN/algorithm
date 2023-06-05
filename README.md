@@ -22,6 +22,9 @@ Since 2023-06-01
 <a href="https://github.com/kitseok">
   <img src="https://github.com/kitseok.png" width="100">
 </a>
+ <a href="https://github.com/90manbo">
+  <img src="https://github.com/90manbo.png" width="100">
+</a>
 </p>
 
 ## 진행상황

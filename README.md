@@ -39,7 +39,10 @@ Since 2023-06-01
   | 레벨 | 진행 상황 |
   | --- | --- |
   | Lv.1 | [신규 아이디 추천](https://github.com/kitseok/algorithm/tree/9d3daea92ac816ea2e17fe9adf47ca6428f852e2/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/72410.%E2%80%85%EC%8B%A0%EA%B7%9C%E2%80%85%EC%95%84%EC%9D%B4%EB%94%94%E2%80%85%EC%B6%94%EC%B2%9C)  |
-  | Lv. |     |
+  | Lv.0 | [분수의 덧셈](https://github.com/kitseok/algorithm/tree/9d3daea92ac816ea2e17fe9adf47ca6428f852e2/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120808.%E2%80%85%EB%B6%84%EC%88%98%EC%9D%98%E2%80%85%EB%8D%A7%EC%85%88)  |
+  | Lv.0 | [연속된 수의 합](https://github.com/kitseok/algorithm/tree/9d3daea92ac816ea2e17fe9adf47ca6428f852e2/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120923.%E2%80%85%EC%97%B0%EC%86%8D%EB%90%9C%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9)  |
+  | Lv.0 | [다음에 올 숫자](https://github.com/kitseok/algorithm/tree/9d3daea92ac816ea2e17fe9adf47ca6428f852e2/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120924.%E2%80%85%EB%8B%A4%EC%9D%8C%EC%97%90%E2%80%85%EC%98%AC%E2%80%85%EC%88%AB%EC%9E%90)  |
+  | Lv.0 | [옹알이(1)](https://github.com/kitseok/algorithm/tree/9d3daea92ac816ea2e17fe9adf47ca6428f852e2/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120956.%E2%80%85%EC%98%B9%EC%95%8C%EC%9D%B4%E2%80%85%EF%BC%881%EF%BC%89)  |
     
   <br/>
 

@@ -99,8 +99,10 @@ Since 2023-06-01
 
   | 레벨 | 진행 상황 |
   | --- | --- |
-  | Lv. |     |
-  | Lv. |     |
+  | Lv.0 |  [몫 구하기](https://github.com/Chan-Pumpkin/algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120805.%E2%80%85%EB%AA%AB%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)  |
+  | Lv.0 |  [더 크게 합치기](https://github.com/Chan-Pumpkin/algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181939.%E2%80%85%EB%8D%94%E2%80%85%ED%81%AC%EA%B2%8C%E2%80%85%ED%95%A9%EC%B9%98%EA%B8%B0)  |
+  | Lv.0 |  [옹알이 1](https://github.com/Chan-Pumpkin/algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120956.%E2%80%85%EC%98%B9%EC%95%8C%EC%9D%B4%E2%80%85%EF%BC%881%EF%BC%89)    |
+  | Lv.0 |  [영어가 싫어요](https://github.com/Chan-Pumpkin/algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120894.%E2%80%85%EC%98%81%EC%96%B4%EA%B0%80%E2%80%85%EC%8B%AB%EC%96%B4%EC%9A%94)   |
     
   <br/>
 

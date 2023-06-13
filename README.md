@@ -111,8 +111,14 @@ Since 2023-06-01
 
   | 레벨 | 진행 상황 |
   | --- | --- |
-  | Lv. |     |
-  | Lv. |     |
+  | Lv.0 | [홀짝 구분하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181944.%E2%80%85%ED%99%80%EC%A7%9D%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [꼬리문자열](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181841.%E2%80%85%EA%BC%AC%EB%A6%AC%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4) |
+  | Lv.0 | [A 강조하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181874.%E2%80%85A%E2%80%85%EA%B0%95%EC%A1%B0%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [접두사인지 확인하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181906.%E2%80%85%EC%A0%91%EB%91%90%EC%82%AC%EC%9D%B8%EC%A7%80%E2%80%85%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [접미사인지 확인하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181908.%E2%80%85%EC%A0%91%EB%AF%B8%EC%82%AC%EC%9D%B8%EC%A7%80%E2%80%85%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [홀수 vs 짝수](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181887.%E2%80%85%ED%99%80%EC%88%98%E2%80%85vs%E2%80%85%EC%A7%9D%EC%88%98) |
+  | Lv.0 | [배열의 원소만큼 추가하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181861.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%EC%9B%90%EC%86%8C%EB%A7%8C%ED%81%BC%E2%80%85%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [공백으로 구분하기2](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181868.%E2%80%85%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%E2%80%852) |
   <br/>
   
     

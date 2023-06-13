@@ -82,8 +82,15 @@ Since 2023-06-01
 
   | 레벨 | 진행 상황 |
   | --- | --- |
-  | Lv. |     |
-  | Lv. |     |
+  | Lv.1 | [서울에서 김서방 찾기](https://github.com/kitseok/algorithm/tree/9aa8d2d995de1813356674402ee546905bcdd5dd/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12919.%E2%80%85%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%E2%80%85%EA%B9%80%EC%84%9C%EB%B0%A9%E2%80%85%EC%B0%BE%EA%B8%B0) |
+  | Lv.1 | [나머지가 1이 되는 수 찾기](https://github.com/kitseok/algorithm/tree/9aa8d2d995de1813356674402ee546905bcdd5dd/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/87389.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%E2%80%851%EC%9D%B4%E2%80%85%EB%90%98%EB%8A%94%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0)  |
+  | Lv.0 | [OX퀴즈](https://github.com/kitseok/algorithm/tree/9aa8d2d995de1813356674402ee546905bcdd5dd/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120907.%E2%80%85OX%ED%80%B4%EC%A6%88)  |
+  | Lv.0 | [영어가 싫어요](https://github.com/kitseok/algorithm/tree/9aa8d2d995de1813356674402ee546905bcdd5dd/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120894.%E2%80%85%EC%98%81%EC%96%B4%EA%B0%80%E2%80%85%EC%8B%AB%EC%96%B4%EC%9A%94)  |
+  | Lv.0 | [저주의 숫자 3](https://github.com/kitseok/algorithm/tree/9aa8d2d995de1813356674402ee546905bcdd5dd/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120871.%E2%80%85%EC%A0%80%EC%A3%BC%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90%E2%80%853)  |
+  | Lv.0 | [문자열 밀기](https://github.com/kitseok/algorithm/tree/9aa8d2d995de1813356674402ee546905bcdd5dd/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120921.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%80%EA%B8%B0)  |
+  | unrated | [그림 확대](https://github.com/kitseok/algorithm/tree/9aa8d2d995de1813356674402ee546905bcdd5dd/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181836.%E2%80%85%EA%B7%B8%EB%A6%BC%E2%80%85%ED%99%95%EB%8C%80)  |
+  | unrated | [전국 대회 선발 고사](https://github.com/kitseok/algorithm/tree/9aa8d2d995de1813356674402ee546905bcdd5dd/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181851.%E2%80%85%EC%A0%84%EA%B5%AD%E2%80%85%EB%8C%80%ED%9A%8C%E2%80%85%EC%84%A0%EB%B0%9C%E2%80%85%EA%B3%A0%EC%82%AC)  |
+  | unrated | [배열 만들기 2](https://github.com/kitseok/algorithm/tree/9aa8d2d995de1813356674402ee546905bcdd5dd/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181921.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852)  |
     
   <br/>
 

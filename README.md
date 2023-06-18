@@ -128,7 +128,8 @@ Since 2023-06-01
   | 레벨 | 진행 상황 |
   | --- | --- |
   | unrated | [문자열 반복해서 출력하기](https://github.com/90manbo/Algo2023/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181950.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) |
-  | Lv. |     |
+  | unrated | [a와 b 출력하기](https://github.com/90manbo/Algo2023/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181951.%E2%80%85a%EC%99%80%E2%80%85b%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) 
+  | unrated | [문자열 출력하기](https://github.com/90manbo/Algo2023/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181952.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) |
   <br/>
     
   </div>

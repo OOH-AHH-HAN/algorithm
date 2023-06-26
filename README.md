@@ -169,6 +169,7 @@ Since 2023-06-01
   | Lv.0 | [홀짝에 따라 다른 값 반환하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181935.%E2%80%85%ED%99%80%EC%A7%9D%EC%97%90%E2%80%85%EB%94%B0%EB%9D%BC%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EA%B0%92%E2%80%85%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0) |
   | Lv.0 | [주사위의 개수](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120845.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) |
   | Lv.0 | [덧셈식 출력하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181947.%E2%80%85%EB%8D%A7%EC%85%88%EC%8B%9D%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) |
+  
   <br/>
   
   ### 박창현
@@ -205,7 +206,13 @@ Since 2023-06-01
 
   | 레벨 | 진행 상황 |
   | --- | --- |
-    
+  | Lv.0 | [5명씩](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181886.%E2%80%855%EB%AA%85%EC%94%A9) |
+  | Lv.0 | [특별한 이차원 배열1](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181833.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%851) |
+  | Lv.0 | [특별한 이차원 배열2](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181831.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%852) |
+  | Lv.0 | [간단한 식 계산하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181865.%E2%80%85%EA%B0%84%EB%8B%A8%ED%95%9C%E2%80%85%EC%8B%9D%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [문자열 섞기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181942.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%84%9E%EA%B8%B0) |
+  | Lv.0 | [ad 제거하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181870.%E2%80%85ad%E2%80%85%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) |
+  
   <br/>
   
     

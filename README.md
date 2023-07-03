@@ -225,5 +225,49 @@ Since 2023-06-01
   </div>
 </details>
 
+<details>
+  <summary>2023.06.26 ~ 2023.07.02</summary>
+  <div markdown="1">
+    
+  ### 박기석
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+
+  <br/>
+
+  ### 박찬호
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+
+  <br/>
+
+  ### 유경민
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+  | Lv.0 | [부분 문자열 이어 붙여 문자열 만들기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181911.%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%9D%B4%EC%96%B4%E2%80%85%EB%B6%99%EC%97%AC%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
+  | Lv.0 | [배열의 길이에 따라 다른 연산하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181854.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4%EC%97%90%E2%80%85%EB%94%B0%EB%9D%BC%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EC%97%B0%EC%82%B0%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [간단한 논리 연산](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181917.%E2%80%85%EA%B0%84%EB%8B%A8%ED%95%9C%E2%80%85%EB%85%BC%EB%A6%AC%E2%80%85%EC%97%B0%EC%82%B0) |
+  | Lv.0 | [배열 만들기 5](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181912.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%855) |
+  | Lv.0 | [배열의 원소 삭제하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181844.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%EC%9B%90%EC%86%8C%E2%80%85%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [x 사이의 개수](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181867.%E2%80%85x%E2%80%85%EC%82%AC%EC%9D%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) |
+  | Lv.0 | [9로 나눈 나머지](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181914.%E2%80%859%EB%A1%9C%E2%80%85%EB%82%98%EB%88%88%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80) |
+  
+  <br/>
+  
+    
+  ### 박창현
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+ 
+  </div>
+</details>
 
 

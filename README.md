@@ -271,3 +271,57 @@ Since 2023-06-01
 </details>
 
 
+<details>
+  <summary>2023.07.03 ~ 2023.07.09</summary>
+  <div markdown="1">
+    
+  ### 박기석
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+
+  <br/>
+
+  ### 박찬호
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+
+  <br/>
+
+  ### 유경민
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+  | Lv.0 | [접미사 배열](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181909.%E2%80%85%EC%A0%91%EB%AF%B8%EC%82%AC%E2%80%85%EB%B0%B0%EC%97%B4) |
+  | Lv.0 | [특수문자 출력하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181948.%E2%80%85%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [0 떼기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181847.%E2%80%850%E2%80%85%EB%96%BC%EA%B8%B0) |
+  | Lv.0 | [개미 군단](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120837.%E2%80%85%EA%B0%9C%EB%AF%B8%E2%80%85%EA%B5%B0%EB%8B%A8) |
+  | Lv.0 | [콜라츠 수열 만들기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181919.%E2%80%85%EC%BD%9C%EB%9D%BC%EC%B8%A0%E2%80%85%EC%88%98%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
+  | Lv.0 | [순서 바꾸기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181891.%E2%80%85%EC%88%9C%EC%84%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0) |
+  | Lv.0 | [할 일 목록](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181885.%E2%80%85%ED%95%A0%E2%80%85%EC%9D%BC%E2%80%85%EB%AA%A9%EB%A1%9D) |
+  | Lv.0 | [배열 회전시키기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120844.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0) |
+  | Lv.0 | [배열 만들기 3](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181895.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%853) |
+  | Lv.0 | [주사위 게임 2](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181930.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852) |
+  | Lv.0 | [문자열 잘라서 정렬하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181866.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%9E%98%EB%9D%BC%EC%84%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [문자열 돌리기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181945.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0) |
+  | Lv.0 | [가까운 1찾기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181898.%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%851%E2%80%85%EC%B0%BE%EA%B8%B0) |
+  | Lv.1 | [나머지가 1이 되는 수 찾기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/87389.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%E2%80%851%EC%9D%B4%E2%80%85%EB%90%98%EB%8A%94%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0) |
+  | Lv.1 | [콜라츠 추측](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12943.%E2%80%85%EC%BD%9C%EB%9D%BC%EC%B8%A0%E2%80%85%EC%B6%94%EC%B8%A1) |
+  
+  <br/>
+  
+    
+  ### 박창현
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+ 
+  </div>
+</details>
+
+

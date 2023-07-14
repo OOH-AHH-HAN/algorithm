@@ -288,6 +288,10 @@ Since 2023-06-01
 
   | 레벨 | 진행 상황 |
   | --- | --- |
+  | Lv.0 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://github.com/Chan-Pumpkin/algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181872.%E2%80%85%ED%8A%B9%EC%A0%95%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%E2%80%85%EB%81%9D%EB%82%98%EB%8A%94%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%B0%BE%EA%B8%B0) |
+  | Lv.0 | [진료 순서 정하기](https://github.com/Chan-Pumpkin/algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120835.%E2%80%85%EC%A7%84%EB%A3%8C%E2%80%85%EC%88%9C%EC%84%9C%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [k의 개수](https://github.com/Chan-Pumpkin/algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120887.%E2%80%85k%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) |
+  | Lv.0 | [가까운 수](https://github.com/Chan-Pumpkin/algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120890.%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EC%88%98) |
 
   <br/>
 

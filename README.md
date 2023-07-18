@@ -328,4 +328,67 @@ Since 2023-06-01
   </div>
 </details>
 
+<details>
+  <summary>2023.07.10 ~ 2023.07.16</summary>
+  <div markdown="1">
+    
+  ### 박기석
+  :book: 프로그래머스 JAVA
 
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+
+  <br/>
+
+  ### 박찬호
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+ 
+  <br/>
+
+  ### 유경민
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+  | Lv.0 | [합성수 찾기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120846.%E2%80%85%ED%95%A9%EC%84%B1%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0) |
+  | Lv.0 | [수 조작하기 2](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181925.%E2%80%85%EC%88%98%E2%80%85%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0%E2%80%852) |
+  | Lv.0 | [등차수열의 특정한 항만 더하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181931.%E2%80%85%EB%93%B1%EC%B0%A8%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%ED%95%AD%EB%A7%8C%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [날짜 비교하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181838.%E2%80%85%EB%82%A0%EC%A7%9C%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [세로 읽기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181904.%E2%80%85%EC%84%B8%EB%A1%9C%E2%80%85%EC%9D%BD%EA%B8%B0) |
+  | Lv.0 | [글자지우기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181900.%E2%80%85%EA%B8%80%EC%9E%90%E2%80%85%EC%A7%80%EC%9A%B0%EA%B8%B0) |
+  | Lv.0 | [수열과 구간 쿼리 1](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181883.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%851) |
+  | Lv.0 | [수열과 구간 쿼리 3](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181924.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%853) |
+  | Lv.0 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181872.%E2%80%85%ED%8A%B9%EC%A0%95%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%E2%80%85%EB%81%9D%EB%82%98%EB%8A%94%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%B0%BE%EA%B8%B0) |
+  | Lv.0 | [빈 배열에 추가, 삭제하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181860.%E2%80%85%EB%B9%88%E2%80%85%EB%B0%B0%EC%97%B4%EC%97%90%E2%80%85%EC%B6%94%EA%B0%80%EF%BC%8C%E2%80%85%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [진료 순서 정하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120835.%E2%80%85%EC%A7%84%EB%A3%8C%E2%80%85%EC%88%9C%EC%84%9C%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [이차원 배열 대각선 순회하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181829.%E2%80%85%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8C%80%EA%B0%81%EC%84%A0%E2%80%85%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [1로 만들기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181880.%E2%80%851%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
+  | Lv.0 | [문자열이 몇 번 등장하는지 세기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181871.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4%E2%80%85%EB%AA%87%E2%80%85%EB%B2%88%E2%80%85%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94%EC%A7%80%E2%80%85%EC%84%B8%EA%B8%B0) |
+  | Lv.0 | [배열의 길이를 2의 거듭제곱으로 만들기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181857.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4%EB%A5%BC%E2%80%852%EC%9D%98%E2%80%85%EA%B1%B0%EB%93%AD%EC%A0%9C%EA%B3%B1%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
+  | Lv.0 | [문자열 뒤집기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120822.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0) |
+  | Lv.0 | [수열과 구간 쿼리 4](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181922.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%854) |
+  | Lv.0 | [이진수 더하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120885.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [세 개의 구분자](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181862.%E2%80%85%EC%84%B8%E2%80%85%EA%B0%9C%EC%9D%98%E2%80%85%EA%B5%AC%EB%B6%84%EC%9E%90) |
+  | Lv.0 | [소인수분해](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120852.%E2%80%85%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4) |
+  | Lv.0 | [리스트 자르기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181897.%E2%80%85%EB%A6%AC%EC%8A%A4%ED%8A%B8%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0) |
+  | Lv.0 | [커피 심부름](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181837.%E2%80%85%EC%BB%A4%ED%94%BC%E2%80%85%EC%8B%AC%EB%B6%80%EB%A6%84) |
+  | Lv.0 | [조건에 맞게 수열 변환하기 2](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181881.%E2%80%85%EC%A1%B0%EA%B1%B4%EC%97%90%E2%80%85%EB%A7%9E%EA%B2%8C%E2%80%85%EC%88%98%EC%97%B4%E2%80%85%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0%E2%80%852) |
+  | Lv.0 | [문자열 묶기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181855.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%AC%B6%EA%B8%B0) |
+  | Lv.0 | [2의 영역](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181894.%E2%80%852%EC%9D%98%E2%80%85%EC%98%81%EC%97%AD) |
+  | Lv.0 | [문자 개수 세기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181902.%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%EA%B0%9C%EC%88%98%E2%80%85%EC%84%B8%EA%B8%B0) |
+  | Lv.0 | [qr code](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181903.%E2%80%85qr%E2%80%85code) |
+  | Lv.0 | [배열 만들기 4](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181918.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%854) |
+  <br/>
+  
+    
+  ### 박창현
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+ 
+  </div>
+</details>

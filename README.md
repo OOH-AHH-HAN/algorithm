@@ -392,3 +392,65 @@ Since 2023-06-01
  
   </div>
 </details>
+
+
+<details>
+  <summary>2023.07.17 ~ 2023.07.23</summary>
+  <div markdown="1">
+    
+  ### 박기석
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+
+  <br/>
+
+  ### 박찬호
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+ 
+  <br/>
+
+  ### 유경민
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+  | Lv.0 | [두 수의 합](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120802.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9) |
+  | Lv.0 | [조건 문자열](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181934.%E2%80%85%EC%A1%B0%EA%B1%B4%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4) |
+  | Lv.0 | [왼쪽 오른쪽](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181890.%E2%80%85%EC%99%BC%EC%AA%BD%E2%80%85%EC%98%A4%EB%A5%B8%EC%AA%BD) |
+  | Lv.0 | [정사각형으로 만들기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181830.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
+  | Lv.0 | [수열과 구간 쿼리 2](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181923.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%852) |
+  | Lv.0 | [문자열 여러 번 뒤집기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181913.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%97%AC%EB%9F%AC%E2%80%85%EB%B2%88%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0) |
+  | Lv.0 | [문자열 겹쳐쓰기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181943.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%B9%EC%B3%90%EC%93%B0%EA%B8%B0) |
+  | Lv.0 | [직사각형 넓이 구하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120860.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%84%93%EC%9D%B4%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [캐릭터의 좌표](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120861.%E2%80%85%EC%BA%90%EB%A6%AD%ED%84%B0%EC%9D%98%E2%80%85%EC%A2%8C%ED%91%9C) |
+  | Lv.0 | [그림 확대](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181836.%E2%80%85%EA%B7%B8%EB%A6%BC%E2%80%85%ED%99%95%EB%8C%80) |
+  | Lv.0 | [배열 만들기 6](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181859.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%856) |
+  | Lv.0 | [무작위로 K개의 수 뽑기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181858.%E2%80%85%EB%AC%B4%EC%9E%91%EC%9C%84%EB%A1%9C%E2%80%85K%EA%B0%9C%EC%9D%98%E2%80%85%EC%88%98%E2%80%85%EB%BD%91%EA%B8%B0) |
+  | Lv.0 | [대소문자 바꿔서 출력하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181949.%E2%80%85%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%E2%80%85%EB%B0%94%EA%BF%94%EC%84%9C%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [삼각형의 완성조건(2)](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120868.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4%E2%80%85%EF%BC%882%EF%BC%89) |
+  | Lv.0 | [등수 매기기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120882.%E2%80%85%EB%93%B1%EC%88%98%E2%80%85%EB%A7%A4%EA%B8%B0%EA%B8%B0) |
+  | Lv.0 | [유한소수 판별하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120878.%E2%80%85%EC%9C%A0%ED%95%9C%EC%86%8C%EC%88%98%E2%80%85%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0) |
+  | Lv.0 | [배열 만들기 2](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/181921.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852) |
+  | Lv.1 | [약수의 합](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12928.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9) |
+  | Lv.1 | [짝수와 홀수](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12937.%E2%80%85%EC%A7%9D%EC%88%98%EC%99%80%E2%80%85%ED%99%80%EC%88%98) |
+  | Lv.1 | [평균 구하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12944.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) |
+  | Lv.1 | [자릿수 더하기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120906.%E2%80%85%EC%9E%90%EB%A6%BF%EC%88%98%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) |
+  | Lv.1 | [x만큼 간격이 있는 n개의 숫자](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12954.%E2%80%85x%EB%A7%8C%ED%81%BC%E2%80%85%EA%B0%84%EA%B2%A9%EC%9D%B4%E2%80%85%EC%9E%88%EB%8A%94%E2%80%85n%EA%B0%9C%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90) |
+  | Lv.1 | [문자열 내 p와 y의 개수](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12916.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%B4%E2%80%85p%EC%99%80%E2%80%85y%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) |
+  
+  <br/>
+  
+    
+  ### 박창현
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+ 
+  </div>
+</details>

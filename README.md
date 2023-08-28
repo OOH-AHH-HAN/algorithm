@@ -668,3 +668,44 @@ Since 2023-06-01
  
   </div>
 </details>
+
+
+<details>
+  <summary>2023.08.21 ~ 2023.08.27</summary>
+  <div markdown="1">
+    
+  ### 박기석
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+
+  <br/>
+
+  ### 박찬호
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+ 
+  <br/>
+
+  ### 유경민
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+  | Lv.1 | [명예의 전당(1) -> 나중에 경로 바꾸기](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/138477.%E2%80%85%EB%AA%85%EC%98%88%EC%9D%98%E2%80%85%EC%A0%84%EB%8B%B9%E2%80%85%EF%BC%881%EF%BC%89) |
+  | Lv.1 | [모의고사](https://github.com/gyeongmin1120/Code-Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/42840.%E2%80%85%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC) |
+  
+  <br/>
+  
+    
+  ### 박창현
+  :book: 프로그래머스 JAVA
+
+  | 레벨 | 진행 상황 |
+  | --- | --- |
+ 
+  </div>
+</details>
